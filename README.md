@@ -3,12 +3,12 @@
 
 **Objectives**
 
-- To design and practice SQL queries on a sample bookstore database.
+- To design and SQL queries on a bookstore database.
 - To strengthen understanding of filtering, aggregation, joins, grouping, and reporting.
 - To simulate real-world business questions such as revenue calculation, customer insights, and inventory management.
 
 **Tools Used**
-- MySQL Workbench– Relational database management system.
+- MySQL Workbench – GUI tool for designing schemas, writing queries, and visualizing relationships.
 - SQL – Query language for data retrieval and analysis.
 
 **Key Insights**

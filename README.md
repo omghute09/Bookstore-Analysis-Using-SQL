@@ -1,4 +1,4 @@
-📚 Bookstore SQL Practice Project
+📚 Bookstore Analysis Using SQL
 
 
 **Objectives**

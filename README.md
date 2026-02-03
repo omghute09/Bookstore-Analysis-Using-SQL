@@ -1,2 +1,9 @@
 # Bookstore-Analysis-Using-SQL
-This project demonstrates SQL queries for analyzing a bookstore database with three core tables: - Books – details of titles, genres, authors, publication year, price, and stock - Orders – customer purchases, quantities, order dates, and total amounts - Customers – customer information including name, city, and country.
+
+This project showcases a collection of SQL queries designed for a Bookstore Management System. It demonstrates how to work with relational databases using filtering, aggregation, joins, grouping, and reporting.
+
+*Database Overview
+The project is based on three core tables:
+- Books – Contains details such as title, author, genre, price, stock, and published year.
+- Customers – Stores customer information including name, city, and country.
+- Orders – Tracks orders with order ID, customer ID, book ID, quantity, total amount, and order date.
